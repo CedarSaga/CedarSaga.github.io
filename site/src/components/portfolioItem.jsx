@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-key */
 import React from 'react';
 
 function portfolioItem({title, imgUrl, stack, link}){
@@ -13,7 +14,7 @@ function portfolioItem({title, imgUrl, stack, link}){
                 <p>
                     {stack.map(item => (
                         <span>
-                           {item} 
+                            {item} 
                         </span>
                     ))}
                 </p>
