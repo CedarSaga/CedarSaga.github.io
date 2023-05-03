@@ -7,7 +7,7 @@ export default [
    },
    {
     title: 'Boids',
-    imgUrl: '/assets/dev.png',
+    imgUrl: '/assets/Boids.png',
     stack: ['Python', 'O.O.P'],
     link: 'https://cedarsaga.github.io'
    },
