@@ -1,20 +1,26 @@
 export default [
    {
     title: 'Developer Portfolio',
-    imgUrl: '/assets/dev.png',
+    imgUrl: '/assets/Portfolio.png',
     stack: ['JavaScript','React','Tailwind','Vite'],
     link: 'https://cedarsaga.github.io'
    },
    {
-    title: 'Developer Portfolio',
+    title: 'Boids',
     imgUrl: '/assets/dev.png',
-    stack: ['JavaScript','React','Tailwind','Vite'],
+    stack: ['Python', 'O.O.P'],
     link: 'https://cedarsaga.github.io'
    },
    {
-    title: 'Developer Portfolio',
-    imgUrl: '/assets/dev.png',
-    stack: ['JavaScript','React','Tailwind','Vite'],
+    title: 'Tarot Reader',
+    imgUrl: '/assets/Tarot.jpg',
+    stack: ['Java', 'C++'],
     link: 'https://cedarsaga.github.io'
-   }
+    },
+    {
+     title: 'Twitter Bot',
+     imgUrl: '/assets/TwitterBot.png',
+     stack: ['Python', 'APIs'],
+     link: 'https://cedarsaga.github.io'
+    }
 ]
