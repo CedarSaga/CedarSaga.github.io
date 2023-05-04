@@ -1,7 +1,7 @@
 /* eslint-disable react/jsx-key */
 import React from 'react';
 
-function portfolioItem({title, imgUrl, stack, link}){
+function PortfolioItem({title, imgUrl, stack, link}){
     return(
         <div className="border-2 border-stone-900 rounded-md overflow-hidden">
             <img 
@@ -24,4 +24,4 @@ function portfolioItem({title, imgUrl, stack, link}){
     )
 }
 
-export default portfolioItem;
+export default PortfolioItem;

@@ -1,7 +1,7 @@
 /* eslint-disable react/jsx-key */
 import React from 'react';
 import portfolio from '../data/portfolio';
-import PortfolioItem from './portfolioItem';
+import PortfolioItem from './PortfolioItem';
 
 
 function Portfolio(){
@@ -11,14 +11,12 @@ function Portfolio(){
                 
                 {portfolio.map(project => (
                     <PortfolioItem
-                        imgUrl = {project.imgUrl}
+                        imgUrl={project.imgUrl}
                         title={project.title}
                         stack={project.stack}
                         link={project.link}
                     />
                 ))}
-
-
             </div>
         </div> 
     )
