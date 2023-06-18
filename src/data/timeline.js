@@ -1,20 +1,20 @@
 export default [
     {
-        year: 'xxx',
-        title: 'xxx',
-        duration: 'xxx',
-        details: 'xxx'
+        year: 'Lorem ipsum doler set amet',
+        title: 'Lorem ipsum doler set amet',
+        duration: 'Lorem ipsum doler set amet',
+        details: 'Lorem ipsum doler set amet'
     },
     {
-        year: 'xxx',
+        year: 'Lorem ipsum doler set amet',
         title: 'xxx',
         duration: 'xxx',
-        details: 'xxx'
+        details: 'Lorem ipsum doler set amet'
     },
     {
-        year: 'xxx',
+        year: 'Lorem ipsum doler set amet',
         title: 'xxx',
         duration: 'xxx',
-        details: 'xxx'
+        details: 'Lorem ipsum doler set amet'
     }
 ]

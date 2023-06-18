@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/jsx-key */
 import React from 'react';
 import timeline from '../data/timeline';
 import TimelineItem from './TimelineItem';
@@ -11,7 +13,7 @@ function Timeline() {
 
                 {timeline.map(item => (
                     <TimelineItem
-                        year={item.date}
+                        year={item.year}
                         title={item.title}
                         duration={item.duration}
                         details={item.details}

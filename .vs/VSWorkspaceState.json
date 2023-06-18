@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\data",
+    "\\src\\styles"
   ],
-  "SelectedNode": "\\vite.config.js",
+  "SelectedNode": "\\src\\styles\\tailwind.css",
   "PreviewInSolutionExplorer": false
 }
