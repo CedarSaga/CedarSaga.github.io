@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
 import Intro from "./components/intro";
 import Contact from "./components/contact";
